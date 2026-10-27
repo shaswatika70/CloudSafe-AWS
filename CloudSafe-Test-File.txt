@@ -1,0 +1,3 @@
+CloudSafe Test File
+This file verifies that private S3 storage works.
+Project: CloudSafe

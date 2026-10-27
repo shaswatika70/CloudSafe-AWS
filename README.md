@@ -37,4 +37,21 @@ The bucket is configured to block public access and use SSE-S3 encryption. Effec
 - Review CloudTrail events.
 - Add an optional user interface for file operations.
 - Document architecture, testing evidence, and cost considerations.
+
+
+## Project Screenshots
+
+### Architecture Diagram
+![Architecture](Screenshots/architecture.png)
+
+### Security Configuration
+![Block Public Access](Screenshots/block-public-access.png)
+
+### Encryption
+![S3 Encryption](Screenshots/s3-encryption.png)
+
+### Upload Test
+![Upload Test](Screenshots/upload-test.png)
     
+### IAM Policy
+![CloudSafe IAM Policy](Screenshots/iam-policy.png)
