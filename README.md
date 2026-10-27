@@ -55,3 +55,10 @@ The bucket is configured to block public access and use SSE-S3 encryption. Effec
     
 ### IAM Policy
 ![CloudSafe IAM Policy](Screenshots/iam-policy.png)
+
+
+### CloudSafe – Secure AWS File Storage
+
+- Developed an AWS cloud-storage project using Amazon S3 and IAM to manage file access securely.
+- Configured a private S3 bucket with default SSE-S3 encryption and restricted IAM permissions for the `uploads/` prefix.
+- Tested upload, download, and access-denial scenarios using AWS CLI to validate least-privilege access controls.
